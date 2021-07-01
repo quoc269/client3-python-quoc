@@ -1,0 +1,1 @@
+web: gunicorn UD_Nhan_vien:DichVu
